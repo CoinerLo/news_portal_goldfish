@@ -4,6 +4,8 @@
 ---
 The application has several screens, data loading and a private page for a registered user.
 
+Don't forget to visit our [website!](https://news-portal-goldfish.herokuapp.com/)
+
 <br>
 
 ## Install
