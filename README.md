@@ -4,7 +4,7 @@
 ---
 The application has several screens, data loading and a private page for a registered user.
 
-Don't forget to visit our [website!](https://news-portal-goldfish.herokuapp.com/)
+Don't forget to visit our [website!](https://news-portal-goldfish.vercel.app/)
 
 <br>
 
@@ -18,3 +18,7 @@ Don't forget to visit our [website!](https://news-portal-goldfish.herokuapp.com/
 
     npm run start
 
+## Login/Password
+
+Admin
+12345
